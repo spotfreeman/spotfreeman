@@ -1,4 +1,6 @@
-# Hola! Raúl Oyarzún Becerra
+<img src="https://github.com/spotfreeman/spotfreeman/blob/main/DSC03009.JPG?raw=true" alt="">
+
+# Hola! Soy Raúl Oyarzún Becerra
 
 ## Estudiante de la Universidad del Desarrollo - Desarrollo Web FullStack.
 
