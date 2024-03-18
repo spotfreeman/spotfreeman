@@ -2,8 +2,7 @@
 
 # Hola! Soy Raúl Oyarzún Becerra
 
-## Estudiante de la Universidad del Desarrollo - Desarrollo Web FullStack.
-
+## Desarrollador FullStack.
 
 Me puedes contactar via r.oyarzun83@gmail.com
 
@@ -18,7 +17,7 @@ Me puedes contactar via r.oyarzun83@gmail.com
 
 Estudios autodidactas en Unity3d.
 <br>
-Actualmente trabajando en Ministerio de Salud en el area de Higiene y Seguridad.
+Actualmente trabajando en Ministerio de Salud en el area de Control de Gestion, Higiene y Seguridad.
 
 
 ## Redes Sociales
