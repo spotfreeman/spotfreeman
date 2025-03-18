@@ -2,22 +2,10 @@
 
 # Hola! Soy Raúl Oyarzún Becerra
 
-## Desarrollador FullStack.
+👨‍💻 Ingeniero en Prevención de Riesgos | Desarrollador Full Stack
+Apasionado por la tecnología y el aprendizaje continuo. Cuento con formación en Control de Gestión, Análisis de Datos y desarrollo autodidacta en Unity. Me gusta crear soluciones innovadoras combinando mis conocimientos en programación, análisis y gestión de proyectos.
 
-Me puedes contactar via r.oyarzun83@gmail.com
-
-# Lista de estudios.
-
-- HTML
-- CSS
-- Git
-- Github
-- Javascript
-
-
-Estudios autodidactas en Unity3d.
-<br>
-Actualmente trabajando en Ministerio de Salud en el area de Control de Gestion, Higiene y Seguridad.
+🚀 Explorando nuevas tecnologías y desarrollando proyectos que fusionan el desarrollo web, la gestión de datos y la creación de experiencias interactivas.
 
 
 ## Redes Sociales
